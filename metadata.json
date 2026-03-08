@@ -1,0 +1,5 @@
+{
+  "name": "RailEase",
+  "description": "A comprehensive railway ticket booking application with real-time search, seat availability, and booking history.",
+  "requestFramePermissions": []
+}
